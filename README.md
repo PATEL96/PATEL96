@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raj D. Patel</h1>
 <h3 align="center">A Student Dev From India</h3>
 
-<p align="left"> <a href="https://twitter.com/rajpatel962002" target="blank"><img src="https://img.shields.io/twitter?logo=twitter&style=for-the-badge" alt="rajpatel962002" /></a> <a href="mailto:patel.raj.official.96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
+<p align="left"> <a href="https://twitter.com/rajpatel962002" target="blank"><img src="https://img.shields.io/badges/twitter?logo=twitter&style=for-the-badge" alt="rajpatel962002" /></a> <a href="mailto:patel.raj.official.96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
 
 - 🌱 I’m currently learning **Solidity, Rust, Go, Hardhat**
 
