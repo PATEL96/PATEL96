@@ -29,9 +29,6 @@
     </center>
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PATEL96&theme=neon&repo=CollegeWork)](https://github.com/PATEL96/CollegeWork)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PATEL96&theme=neon&repo=PortfolioNextJS)]([https://github.com/PATEL96/](https://github.com/PATEL96/PortfolioNextJS))
-
 <div align="center" style="padding: 20px;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PATEL96&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=neon&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -47,6 +44,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/PATEL96/count.svg?"  />
 </div>
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PATEL96&theme=neon&repo=CollegeWork)](https://github.com/PATEL96/CollegeWork)
