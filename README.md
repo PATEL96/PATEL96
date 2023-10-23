@@ -26,7 +26,7 @@
 
 
 <div align="center" style="padding: 20px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PATEL96&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PATEL96&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_green&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
