@@ -21,6 +21,20 @@
 <a href="https://www.hackerearth.com/@patel-96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@patel-96" height="30" width="40" /></a>
 </p>
 
+<div>
+  <h1>
+    <center>
+      Main Repos to visit
+      <div>
+        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PATEL96&theme=neon&repo=CollegeWork)](https://github.com/PATEL96/CollegeWork)
+      </div>
+      <div>
+        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PATEL96&theme=neon&repo=PortfolioNextJS)]([https://github.com/PATEL96/](https://github.com/PATEL96/PortfolioNextJS))
+      </div>
+    </center>
+  </h1>
+</div>
+
 <div align="center" style="padding: 20px;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PATEL96&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=neon&hide_border=false" height="150" alt="languages graph"  />
 </div>
