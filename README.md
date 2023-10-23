@@ -28,6 +28,7 @@
         </h1>
     </center>
 </div>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PATEL96&theme=neon&repo=CollegeWork)](https://github.com/PATEL96/CollegeWork)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PATEL96&theme=neon&repo=PortfolioNextJS)]([https://github.com/PATEL96/](https://github.com/PATEL96/PortfolioNextJS))
 
