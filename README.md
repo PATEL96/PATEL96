@@ -36,3 +36,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/PATEL96/count.svg?"  />
 </div>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PATEL96&repo=github-readme-stats)](https://github.com/PATEL96/github-readme-stats)
