@@ -38,4 +38,4 @@
 </div>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PATEL96&repo=github-readme-stats)](https://github.com/PATEL96/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PATEL96&repo=github-readme-stats)](https://github.com/PATEL96/CollegeWork)
