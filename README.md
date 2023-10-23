@@ -22,9 +22,10 @@
 </p>
 
 <div>
-  <h1>
     <center>
+  <h1>
       Main Repos to visit
+  </h1>
       <div>
         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PATEL96&theme=neon&repo=CollegeWork)](https://github.com/PATEL96/CollegeWork)
       </div>
@@ -32,7 +33,6 @@
         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PATEL96&theme=neon&repo=PortfolioNextJS)]([https://github.com/PATEL96/](https://github.com/PATEL96/PortfolioNextJS))
       </div>
     </center>
-  </h1>
 </div>
 
 <div align="center" style="padding: 20px;">
