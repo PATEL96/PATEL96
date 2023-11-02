@@ -28,8 +28,6 @@
 
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=patel96&show_icons=true&locale=en&theme=neon" alt="patel96" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patel96&theme=neon" alt="patel96" />
 </div>
 
 
