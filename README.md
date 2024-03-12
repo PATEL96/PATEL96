@@ -30,6 +30,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=patel96&show_icons=true&locale=en&theme=neon" alt="patel96" />
 </div>
 
+<div>
+  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+</div>
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/PATEL96/count.svg?"  />
