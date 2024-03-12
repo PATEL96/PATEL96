@@ -36,5 +36,5 @@
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/PATEL96/count.svg?" class={{border-radius: 10px}} />
+  <img src="https://profile-counter.glitch.me/PATEL96/count.svg?" style={{border-radius: 10px}} />
 </div>
