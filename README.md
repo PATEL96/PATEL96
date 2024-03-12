@@ -31,7 +31,7 @@
 </div>
 
 <div>
-  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+  <image align="center" src="https://github.com/PATEL96/PATEL96/blob/output/github-contribution-grid-snake-dark.gif" />
 </div>
 
 
