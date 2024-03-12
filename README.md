@@ -31,7 +31,7 @@
 </div>
 
 <div>
-  <image align="center" src="https://github.com/PATEL96/PATEL96/blob/output/github-contribution-grid-snake-dark.gif" />
+  <image align="center" src="https://github.com/PATEL96/PATEL96/blob/output/github-contribution-grid-snake.gif" />
 </div>
 
 
