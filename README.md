@@ -34,6 +34,7 @@
   <image align="center" src="https://github.com/PATEL96/PATEL96/blob/output/github-contribution-grid-snake.gif" />
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=PATEL96)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/PATEL96/count.svg?" style="border-radius: 10px;" />
