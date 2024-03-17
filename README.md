@@ -27,17 +27,15 @@
 
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=patel96&show_icons=true&locale=en&theme=neon" alt="patel96" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=patel96&show_icons=true&locale=en&theme=neon" alt="patel96" />
+</div>
+
+<div>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=PATEL96" alt="trophy" />
 </div>
 
 <div>
   <image align="center" src="https://github.com/PATEL96/PATEL96/blob/output/github-contribution-grid-snake.gif" />
-</div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=PATEL96)](https://github.com/PATEL96/github-profile-trophy)
-
-<div>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=PATEL96" alt="trophy" />
 </div>
 
 <div align="center">
