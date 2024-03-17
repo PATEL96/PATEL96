@@ -36,6 +36,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PATEL96)](https://github.com/PATEL96/github-profile-trophy)
 
+<div>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=PATEL96" alt="trophy" />
+</div>
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/PATEL96/count.svg?" style="border-radius: 10px;" />
 </div>
