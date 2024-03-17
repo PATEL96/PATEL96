@@ -31,10 +31,6 @@
 </div>
 
 <div>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=PATEL96" alt="trophy" />
-</div>
-
-<div>
   <image align="center" src="https://github.com/PATEL96/PATEL96/blob/output/github-contribution-grid-snake.gif" />
 </div>
 
