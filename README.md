@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Solidity, Rust, Go, Hardhat**
 
-- 💬 Ask me about **ReactJS, NextJS, Python, Java, JavaScript**
+- 💬 Ask me about **ReactJS, NextJS, Python, Java, TypeScript, Solidity, Rust**
 
 - 📫 How to reach me **patel.raj.official.96@gmail.com**
 
