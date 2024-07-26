@@ -2,7 +2,9 @@
 <h3 align="center">A Fullstack Dev 7 A Blockchain Dev</h3>
 
 <style>
-	
+	a{
+		text-decoration: none;
+	}
 </style>
 
 <p align="left">
