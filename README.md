@@ -71,7 +71,7 @@
 			height="250" alt="activity-graph graph" />
 	</div>
 	<div align="center" style="margin: 15px;">
-		<image align="center" src="https://github.com/PATEL96/PATEL96/blob/output/github-contribution-grid-snake.gif" style="border-radius: 10px;" />
+		<img align="center" src="https://github.com/PATEL96/PATEL96/blob/output/github-contribution-grid-snake.gif" style="border-radius: 10px;" />
 	</div>
 	<div align="center" style="margin: 15px;">
 		<img src="https://profile-counter.glitch.me/PATEL96/count.svg?" style="border-radius: 10px;" />
