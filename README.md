@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raj D. Patel</h1>
 <h3 align="center">A Fullstack Dev 7 A Blockchain Dev</h3>
 
-<style>
-	a{
-		text-decoration: none;
-	}
-</style>
-
 <p align="left">
 	<a href="https://x.com/rajpatel962002" target="blank">
 		<img src="https://img.shields.io/badge/X.com-1DA1F2?style=for-the-badge&logo=x&logoColor=black"
