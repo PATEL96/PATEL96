@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raj D. Patel</h1>
-<h3 align="center">A Fullstack Dev 7 A Blockchain Dev</h3>
+<h3 align="center">A Fullstack Dev & A Blockchain Dev</h3>
 
 <p align="left">
 	<a href="https://x.com/rajpatel962002" target="blank">
