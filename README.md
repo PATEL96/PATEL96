@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **ReactJS, NextJS, Python, Java, TypeScript, Solidity, Hardhat**
 
-- 📫 How to reach me **patel.raj.official.96@gmail.com**
+- 📫 How to reach me **contact@patel96.live**
 
 - ⚡ Fun fact **I'm Everywhere!!!**
 
