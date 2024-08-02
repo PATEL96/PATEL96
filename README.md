@@ -54,11 +54,6 @@
 			height="150" alt="languages graph" />
 	</div>
 	<div align="center" style="margin: 15px;">
-		<img align="center"
-			src="https://github-readme-stats.vercel.app/api?username=patel96&show_icons=true&locale=en&theme=neon"
-			alt="patel96" />
-	</div>
-	<div align="center" style="margin: 15px;">
 		<img src="https://streak-stats.demolab.com?user=PATEL96&locale=en&mode=daily&theme=neon&hide_border=false"
 			alt="streak graph" />
 	</div>
