@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **contact@patel96.live**
 
-- ⚡ Fun fact **I'm Everywhere!!!**
+- ⚡ Fun fact **I can be your Lobster...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
