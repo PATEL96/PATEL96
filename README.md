@@ -50,8 +50,7 @@
 
 <div style="display:flex; align-items: center; justify-content: center; flex-direction: column">
 	<div align="center" style="margin: 15px;">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PATEL96&theme=neon"
-			height="150" alt="languages graph" />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PATEL96&theme=neon" alt="languages graph" />
 	</div>
 	<div align="center" style="margin: 15px;">
 		<img src="https://streak-stats.demolab.com?user=PATEL96&locale=en&mode=daily&theme=neon&hide_border=false"
