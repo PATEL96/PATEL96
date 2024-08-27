@@ -50,7 +50,7 @@
 
 <div style="display:flex; align-items: center; justify-content: center; flex-direction: column">
 	<div align="center" style="margin: 15px;">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PATEL96&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=neon&hide_border=false"
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PATEL96&theme=neon"
 			height="150" alt="languages graph" />
 	</div>
 	<div align="center" style="margin: 15px;">
