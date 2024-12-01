@@ -56,11 +56,11 @@
 		<img src="https://streak-stats.demolab.com?user=PATEL96&locale=en&mode=daily&theme=neon&hide_border=false"
 			alt="streak graph" />
 	</div>
-	<div align="center" style="margin: 15px;">
+<!-- 	<div align="center" style="margin: 15px;">
 		<a href="https://github.com/PATEL96/dotify-client" target="_blank">
 			<img src="https://github-readme-stats.vercel.app/api/pin/?username=PATEL96&repo=dotify-client&theme=neon" alt="dotify-client" style="border-radius: 10px;" />
 		</a>
-	</div>
+	</div> -->
 	<div align="center" style="margin: 15px;">
 		<img src="https://github-readme-activity-graph.vercel.app/graph?username=PATEL96&radius=16&theme=react&area=true&order=5"
 			height="250" alt="activity-graph graph" />
