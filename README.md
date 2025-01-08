@@ -53,6 +53,7 @@
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PATEL96&theme=neon" alt="languages graph" />
 	</div>
 	<div align="center" style="margin: 15px;">
+		<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PATEL96&theme=neon&border_radius=3" alt="GitHub Streak" /></a>
 		<img src="https://streak-stats.demolab.com?user=PATEL96&locale=en&mode=daily&theme=neon&hide_border=false"
 			alt="streak graph" />
 	</div>
