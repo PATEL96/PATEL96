@@ -50,13 +50,11 @@
 
 <div style="display:flex; align-items: center; justify-content: center; flex-direction: column">
 	<div align="center" style="margin: 15px;">
+		<img src="https://github-readme-streak-stats-eight.vercel.app/?user=PATEL96&theme=dark&hide_border=false&theme=neon" alt="Streak Status" />
+	</div>
+	<div align="center" style="margin: 15px;">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PATEL96&theme=neon" alt="languages graph" />
 	</div>
-<!-- 	<div align="center" style="margin: 15px;">
-		<a href="https://github.com/PATEL96/dotify-client" target="_blank">
-			<img src="https://github-readme-stats.vercel.app/api/pin/?username=PATEL96&repo=dotify-client&theme=neon" alt="dotify-client" style="border-radius: 10px;" />
-		</a>
-	</div> -->
 	<div align="center" style="margin: 15px;">
 		<img src="https://github-readme-activity-graph.vercel.app/graph?username=PATEL96&radius=16&theme=react&area=true&order=5"
 			height="250" alt="activity-graph graph" />
