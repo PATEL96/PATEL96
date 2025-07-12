@@ -2,9 +2,9 @@
 <h3 align="center">A Fullstack Dev & A Blockchain Dev</h3>
 
 <p align="left">
-	<a href="https://x.com/rajpatel962002" target="blank">
+	<a href="https://x.com/rajdpatel96" target="blank">
 		<img src="https://img.shields.io/badge/X.com-1DA1F2?style=for-the-badge&logo=x&logoColor=black"
-			alt="rajpatel962002" />
+			alt="rajdpatel96" />
 	</a>
 	<a href="mailto:contact@patel96.live">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black">
