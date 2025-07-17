@@ -45,7 +45,4 @@
 	<div align="center" style="margin: 15px; border-radius: 10px;">
 		<img align="center" src="https://github.com/PATEL96/PATEL96/blob/output/github-contribution-grid-snake.gif" />
 	</div>
-	<div align="center" style="margin: 15px;">
-		<img src="https://komarev.com/ghpvc/?username=PATEL96&color=green&style=for-the-badge&abbreviated=true" style="border-radius: 10px;" />
-	</div>
 </div>
