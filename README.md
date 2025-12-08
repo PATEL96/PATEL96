@@ -42,7 +42,13 @@
 		<img src="https://github-readme-activity-graph.vercel.app/graph?username=PATEL96&radius=16&theme=react&area=true&order=5"
 			height="250" alt="activity-graph graph" />
 	</div>
+	<div align="center" style="margin: 15px;">
+		<img src="https://api.star-history.com/svg?repos=PATEL96/dotify-client,PATEL96/phrack-read&type=date&legend=top-left&theme=dark"
+			height="800" alt="star-history" />
+	<!-- [![Star History Chart](https://api.star-history.com/svg?repos=PATEL96/dotify-client,PATEL96/phrack-read&type=date&legend=top-left&theme=dark)](https://www.star-history.com/#PATEL96/dotify-client&PATEL96/phrack-read&type=date&theme=dark&legend=top-left) -->
+	</div>
 	<div align="center" style="margin: 15px; border-radius: 10px;">
 		<img align="center" src="https://github.com/PATEL96/PATEL96/blob/output/github-contribution-grid-snake.gif" />
 	</div>
 </div>
+
