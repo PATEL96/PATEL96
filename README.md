@@ -51,10 +51,3 @@
 		<img align="center" src="https://github.com/PATEL96/PATEL96/blob/output/github-contribution-grid-snake.gif" />
 	</div>
 </div>
-
-<iframe
-		src="https://skyline3d.in/PATEL96/embed?endDate=2025-12-15&enableZoom=false"
-		width="100%"
-		height="100%"
-		frameborder="0"
-	></iframe>
