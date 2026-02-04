@@ -43,7 +43,7 @@
 			height="250" alt="activity-graph graph" />
 	</div>
 	<div align="center" style="margin: 15px;">
-		<img src="https://api.star-history.com/svg?repos=PATEL96/dotify-client,PATEL96/phrack-read&type=date&legend=top-left&theme=dark"
+		<img src="https://api.star-history.com/svg?repos=PATEL96/dotify-client&type=date&legend=top-left&theme=dark"
 			height="800" alt="star-history" />
 	<!-- [![Star History Chart](https://api.star-history.com/svg?repos=PATEL96/dotify-client,PATEL96/phrack-read&type=date&legend=top-left&theme=dark)](https://www.star-history.com/#PATEL96/dotify-client&PATEL96/phrack-read&type=date&theme=dark&legend=top-left) -->
 	</div>
