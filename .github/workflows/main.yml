@@ -22,7 +22,7 @@ jobs:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
                   github_username: ${{ github.repository_owner }}
                   output_dir: dist
-                  color: green
+                  color: multi
                   mode: dark
 
             - name: Push to output branch
