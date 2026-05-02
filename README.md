@@ -48,6 +48,6 @@
 	<!-- [![Star History Chart](https://api.star-history.com/svg?repos=PATEL96/dotify-client,PATEL96/phrack-read&type=date&legend=top-left&theme=dark)](https://www.star-history.com/#PATEL96/dotify-client&PATEL96/phrack-read&type=date&theme=dark&legend=top-left) -->
 	</div>
 	<div align="center" style="margin: 15px; border-radius: 10px;">
-		<img align="center" src="https://github.com/PATEL96/PATEL96/blob/output/github-contribution-grid-snake.gif" />
+		<img align="center" src="https://raw.githubusercontent.com/PATEL96/PATEL96/refs/heads/output/git-invader-multi-dark.svg" />
 	</div>
 </div>
